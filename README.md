@@ -16,11 +16,11 @@
 
 # Table of Contents
 
-1. [Expert Systems Learning Resources](https://github.com/mikeroyal/Expert-Systems-Guide#NLP-learning-resources)
+1. [Expert Systems Learning Resources](https://github.com/mikeroyal/Expert-Systems-Guide#expert-systems-learning-resources)
 
-2. [Expert Systems Tools, Libraries, and Frameworks](https://github.com/mikeroyal/Expert-Systems-Guide#NLP-tools-libraries-and-frameworks)
+2. [Expert Systems Tools, Libraries, and Frameworks](https://github.com/mikeroyal/Expert-Systems-Guide#expert-systems-tools-libraries-and-frameworks)
 
-3. [Natural Language Processing (NLP) Development](https://github.com/mikeroyal/Expert-Systems-Guide#NLP-Development)
+3. [Natural Language Processing (NLP) Development](https://github.com/mikeroyal/Expert-Systems-Guide#-Development)
 
 4. [Algorithms](https://github.com/mikeroyal/Expert-Systems-Guide#algorithms)
 
@@ -205,7 +205,6 @@
 
 # Algorithms
 [Back to the Top](https://github.com/mikeroyal/Expert-Systems-Guide#table-of-contents)
-
 
 [Fuzzy logic](https://www.investopedia.com/terms/f/fuzzy-logic.asp) is a heuristic approach that allows for more advanced decision-tree processing and better integration with rules-based programming.
 
