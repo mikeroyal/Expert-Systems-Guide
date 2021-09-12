@@ -20,7 +20,7 @@
 
 2. [Expert Systems Tools, Libraries, and Frameworks](https://github.com/mikeroyal/Expert-Systems-Guide#expert-systems-tools-libraries-and-frameworks)
 
-3. [Natural Language Processing (NLP) Development](https://github.com/mikeroyal/Expert-Systems-Guide#-Development)
+3. [Natural Language Processing (NLP) Development](https://github.com/mikeroyal/Expert-Systems-Guide#NLP-Development)
 
 4. [Algorithms](https://github.com/mikeroyal/Expert-Systems-Guide#algorithms)
 
